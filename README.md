@@ -1,6 +1,8 @@
-# TDP Workshop: Data Science your Job Search - September 2018
+# TDP Workshop: Data Science your Job Search
 
 **Maryam Jahanshahi & Amit Bhatia**, [TapRecruit](http://www.taprecruit.co)
+
+September 2018
 
 ## Skills assessment
 - Metric definition
@@ -21,14 +23,14 @@
 ### Conventional roles
 
 | Categorization | Job Titles |
-| --- | --- |
+|:------------ |:------------ |
 | Business-focussed  | Data Analyst, Business Analyst, BI Analyst, Product Analyst  |
 | Modeling-focussed  | Data Scientist, Quantitative Analyst, Product Data Scientist, Research Scientist |
 | Production-focussed | Data Engineer, ML Engineer, Software Engineer, Infrastructure Engineer, Data Platform Developer, BI Developer |
 
 ### Data roles by functional areas
 | Categorization | Job Titles |
-| ------------- | ------------- |
+|:------------ |:------------ |
 | Reporting  | Reporting Analyst, Business Intelligence Analyst, Growth Analyst, Operations Research Analyst  |
 | Finance  | Finance Analyst, Revenue Analyst |
 | Sales | Sales Analyst, Sales Operations Analyst, Sales Engineer |
@@ -49,7 +51,7 @@
 ## Data-focussed Meetups in New York
 
 |  | General | Affinity Group Focussed |
-| ------------- | ------------- |------------- |
+|:------------ |:------------ |:------------ |
 | Context | [NYC Machine Learning](https://www.meetup.com/NYC-Machine-Learning/), [Data Visualization Meetup](https://www.meetup.com/DataVisualization/), [Data Storytelling NYC](https://www.meetup.com/Data-Storytelling-NYC/) | [Tech Ladies](https://www.hiretechladies.com/join/?kid=HNTNG), [WomenWhoCode NYC](https://www.womenwhocode.com), [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/), [Women in Machine Learning and Data Science NYC](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/), [Women in Software Engineering NYC](https://www.meetup.com/Women-in-Software-Engineering-NYC/) |
 | Platform Specific | [NY R Meetup Group](https://www.meetup.com/nyhackr/), [New York Python](https://www.meetup.com/nycpython/), [Looker NYC](https://www.meetup.com/meetup-group-XwKEpidf/) | [NY R Ladies](https://www.meetup.com/rladies-newyork/), [NY PyLadies](https://www.meetup.com/NYC-PyLadies/) | 
 
