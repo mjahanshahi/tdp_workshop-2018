@@ -1,5 +1,6 @@
-# TDP Workshop
-**Maryam Jahanshahi & Amit Bhatia** | September 2018
+# TDP Workshop: Data Science your Job Search
+*September 2018*
+**Maryam Jahanshahi & Amit Bhatia**, [TapRecruit](http://www.taprecruit.co)
 
 ## Skills assessment
 - Metric definition
@@ -13,8 +14,8 @@
 - Data engineering
 
 ### Other skills assessment frameworks
-- https://towardsdatascience.com/a-framework-for-evaluating-data-scientist-competency-89b5f275a6bf
-- https://machinelearningmastery.com/data-science-skills-simple-method-can-use-evaluate-use-results-build-amazing-data-science-teams/
+- [Schaun Wheeler](https://towardsdatascience.com/a-framework-for-evaluating-data-scientist-competency-89b5f275a6bf)
+- [Jason Brownlee](https://machinelearningmastery.com/data-science-skills-simple-method-can-use-evaluate-use-results-build-amazing-data-science-teams/)
 
 ## Flavors of Data Analyst and Data Scientist Roles
 ### Conventional roles
@@ -24,7 +25,6 @@
 | Business-focussed  | Data Analyst, Business Analyst, BI Analyst, Product Analyst  |
 | Modeling-focussed  | Data Scientist, Quantitative Analyst, Product Data Scientist, Research Scientist |
 | Production-focussed | Data Engineer, ML Engineer, Software Engineer, Infrastructure Engineer, Data Platform Developer, BI Developer |
-
 
 ### Data roles by functional areas
 | Categorization | Job Titles |
@@ -37,10 +37,10 @@
 | Operations | Operations Analyst, Logistics Analyst, Supply Chain Analyst |
 
 ### Further reading on distinctions between different roles
-- https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
-- https://www.quora.com/What-is-data-science/answer/Michael-Hochster
-- https://mpopov.com/blog/2018/5/24/data-analyst-vs-data-scientist-industry-perspectives
-- https://eng.lyft.com/whats-in-a-name-ce42f419d16c
+- [Robert Chang](https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6) on how data science changes as startup companies scale.
+- [Michael Hochster](https://www.quora.com/What-is-data-science/answer/Michael-Hochster) on Type A vs Type B Data Scientists
+- [Mikhail Popov](https://mpopov.com/blog/2018/5/24/data-analyst-vs-data-scientist-industry-perspectives) on the distinction between Data Analyst and Data Scientists
+- [Nicholas Chamandy](https://eng.lyft.com/whats-in-a-name-ce42f419d16c) on how the company has rebranded Data Analysts as Data Scientists, and Data Scientists as Research Scientists.
 
 ### Some fun and games about data science titles
 - [So What Do Data Scientists Actually Do? Suggestions for a more accurate job title](https://thebolditalic.com/so-what-do-data-scientists-actually-do-33134ba4a31d)
