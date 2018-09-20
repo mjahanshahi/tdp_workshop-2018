@@ -1,5 +1,6 @@
 # TDP Workshop: Data Science your Job Search
 *September 2018*
+
 **Maryam Jahanshahi & Amit Bhatia**, [TapRecruit](http://www.taprecruit.co)
 
 ## Skills assessment
@@ -75,8 +76,16 @@ NB: These have few links. Please populate!
 - Advertising/Marketing
 - Security
 
-## Even more resources
+## Tapwage Collections
+- [Jobs for Data Scientists at Venture-Backed Startups](https://tapwage.com/channel/data-science-superstar)
+- [Jobs for Data Visualization Developers and Designers](https://tapwage.com/channel/painting-pictures-with-data)
+- [Startup Roles for MBAs Involving Data Analytics](https://tapwage.com/channel/data-driven-mbas-at-startups)
+- [Corporate Roles for MBAs Involving Data Analytics](https://tapwage.com/channel/data-driven-mbas-at-big-corporates)
+- [Internships Involving Data Analytics](https://tapwage.com/channel/data-driven-internships)
+
+## Recommended Career Resources
 - Data Science Recruiting Series by [Emily Robinson](http://hookedondata.org/)
 - Career Development by [Lara Hogan](https://larahogan.me/blog/)
 - Resume and Career Profile for Data Scientists [Presentation by William Chen](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG)
 - Am I a Good Fit? Identifying Your Best Data Science Job Opportunities [Presentation by Jessica Kirkpatrick](https://www.youtube.com/watch?v=0W0Zrc-m5r8&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=2)
+
