@@ -1,5 +1,5 @@
 # TDP Workshop
-Maryam Jahanshahi & Amit Bhatia | September 2018
+**Maryam Jahanshahi & Amit Bhatia** | September 2018
 
 ## Skills assessment
 - Metric definition
@@ -17,36 +17,24 @@ Maryam Jahanshahi & Amit Bhatia | September 2018
 - https://machinelearningmastery.com/data-science-skills-simple-method-can-use-evaluate-use-results-build-amazing-data-science-teams/
 
 ## Flavors of Data Analyst and Data Scientist Roles
-### Titles of conventional data roles
+### Conventional roles
 
-#### Business-focussed
-Data Analyst, Business Analyst, BI Analyst, Product Analyst
+| Categorization | Job Titles |
+| --- | --- |
+| Business-focussed  | Data Analyst, Business Analyst, BI Analyst, Product Analyst  |
+| Modeling-focussed  | Data Scientist, Quantitative Analyst, Product Data Scientist, Research Scientist |
+| Production-focussed | Data Engineer, ML Engineer, Software Engineer, Infrastructure Engineer, Data Platform Developer, BI Developer |
 
-#### Modeling-focussed
-Data Scientist, Quantitative Analyst, Product Data Scientist, Research Scientist
 
-#### Production-focussed
-Data Engineer, ML Engineer, Software Engineer, Infrastructure Engineer, Data Platform Developer, BI Developer
-
-### Broader data roles by functional areas
-
-#### Reporting
-Reporting Analyst, Business Intelligence Analyst, Growth Analyst, Operations Research Analyst
-
-#### Finance
-Finance Analyst, Revenue Analyst
-
-#### Sales
-Sales Analyst, Sales Operations Analyst, Sales Engineer
-
-#### Marketing
-Advertising Analyst, Web Analyst, Marketing Analyst, Marketing Operations Analyst
-
-#### Human Resouces 
-HR Analyst, People Analyst, Workforce Analyst
-
-#### Operations
-Operations Analyst, Logistics Analyst, Supply Chain Analyst
+### Data roles by functional areas
+| Categorization | Job Titles |
+| ------------- | ------------- |
+| Reporting  | Reporting Analyst, Business Intelligence Analyst, Growth Analyst, Operations Research Analyst  |
+| Finance  | Finance Analyst, Revenue Analyst |
+| Sales | Sales Analyst, Sales Operations Analyst, Sales Engineer |
+| Marketing | Advertising Analyst, Web Analyst, Marketing Analyst, Marketing Operations Analyst |
+| Human Resouces | HR Analyst, People Analyst, Workforce Analyst | 
+| Operations | Operations Analyst, Logistics Analyst, Supply Chain Analyst |
 
 ### Further reading on distinctions between different roles
 - https://medium.com/@rchang/my-two-year-journey-as-a-data-scientist-at-twitter-f0c13298aee6
@@ -80,7 +68,8 @@ Operations Analyst, Logistics Analyst, Supply Chain Analyst
 - [NY PyLadies](https://www.meetup.com/NYC-PyLadies/)
 
 ### Industry Focussed:
-- HR Analytics
+NB: These have few links. Please populate! 
+- [New York Strategic HR Analytics Meetup](https://www.meetup.com/HRAnalyticsPros/)
 - Healthcare
 - Finance
 - Advertising/Marketing
