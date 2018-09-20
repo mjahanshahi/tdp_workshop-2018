@@ -1,5 +1,4 @@
-# TDP Workshop: Data Science your Job Search
-*September 2018*
+# TDP Workshop: Data Science your Job Search - September 2018
 
 **Maryam Jahanshahi & Amit Bhatia**, [TapRecruit](http://www.taprecruit.co)
 
@@ -51,8 +50,8 @@
 
 |  | General | Affinity Group Focussed |
 | ------------- | ------------- |------------- |
-| Context | [NYC Machine Learning](https://www.meetup.com/NYC-Machine-Learning/) [Data Visualization Meetup](https://www.meetup.com/DataVisualization/) [Data Storytelling NYC](https://www.meetup.com/Data-Storytelling-NYC/) | [Tech Ladies](https://www.hiretechladies.com/join/?kid=HNTNG) [WomenWhoCode NYC](https://www.womenwhocode.com) [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/) [Women in Machine Learning and Data Science NYC](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) [Women in Software Engineering NYC](https://www.meetup.com/Women-in-Software-Engineering-NYC/) |
-| Platform Specific | [NY R Meetup Group](https://www.meetup.com/nyhackr/) [New York Python](https://www.meetup.com/nycpython/) [Looker NYC](https://www.meetup.com/meetup-group-XwKEpidf/) | [NY R Ladies](https://www.meetup.com/rladies-newyork/) [NY PyLadies](https://www.meetup.com/NYC-PyLadies/) | 
+| Context | [NYC Machine Learning](https://www.meetup.com/NYC-Machine-Learning/), [Data Visualization Meetup](https://www.meetup.com/DataVisualization/), [Data Storytelling NYC](https://www.meetup.com/Data-Storytelling-NYC/) | [Tech Ladies](https://www.hiretechladies.com/join/?kid=HNTNG), [WomenWhoCode NYC](https://www.womenwhocode.com), [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/), [Women in Machine Learning and Data Science NYC](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/), [Women in Software Engineering NYC](https://www.meetup.com/Women-in-Software-Engineering-NYC/) |
+| Platform Specific | [NY R Meetup Group](https://www.meetup.com/nyhackr/), [New York Python](https://www.meetup.com/nycpython/), [Looker NYC](https://www.meetup.com/meetup-group-XwKEpidf/) | [NY R Ladies](https://www.meetup.com/rladies-newyork/), [NY PyLadies](https://www.meetup.com/NYC-PyLadies/) | 
 
 ### Industry Focussed:
 NB: These have few links. Please populate! 
@@ -74,4 +73,3 @@ NB: These have few links. Please populate!
 - Career Development by [Lara Hogan](https://larahogan.me/blog/)
 - Resume and Career Profile for Data Scientists [Presentation by William Chen](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG)
 - Am I a Good Fit? Identifying Your Best Data Science Job Opportunities [Presentation by Jessica Kirkpatrick](https://www.youtube.com/watch?v=0W0Zrc-m5r8&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=2)
-
