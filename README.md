@@ -48,25 +48,11 @@
 - [Data Samurai: Why Your Business Needs A New Breed Of Data Analyst](https://www.forbes.com/sites/brentdykes/2018/04/26/data-samurai-why-your-business-needs-a-new-breed-of-data-analyst/#52e42a4d4612)
 
 ## Data-focussed Meetups in New York
-- [NYC Machine Learning](https://www.meetup.com/NYC-Machine-Learning/)
-- [Data Visualization Meetup](https://www.meetup.com/DataVisualization/)
-- [Data Storytelling NYC](https://www.meetup.com/Data-Storytelling-NYC/)
 
-#### Platform-specific
-- [NY R Meetup Group](https://www.meetup.com/nyhackr/)
-- [New York Python](https://www.meetup.com/nycpython/)
-- [Looker NYC](https://www.meetup.com/meetup-group-XwKEpidf/)
-
-### Affinity Group Focussed
-- [Tech Ladies](https://www.hiretechladies.com/join/?kid=HNTNG)
-- [WomenWhoCode NYC](https://www.womenwhocode.com)
-- [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/)
-- [Women in Machine Learning and Data Science NYC](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/)
-- [Women in Software Engineering NYC](https://www.meetup.com/Women-in-Software-Engineering-NYC/)
-
-#### Platform-specific
-- [NY R Ladies](https://www.meetup.com/rladies-newyork/)
-- [NY PyLadies](https://www.meetup.com/NYC-PyLadies/)
+|  | General | Affinity Group Focussed |
+| ------------- | ------------- |------------- |
+| Context | [NYC Machine Learning](https://www.meetup.com/NYC-Machine-Learning/) [Data Visualization Meetup](https://www.meetup.com/DataVisualization/) [Data Storytelling NYC](https://www.meetup.com/Data-Storytelling-NYC/) | [Tech Ladies](https://www.hiretechladies.com/join/?kid=HNTNG) [WomenWhoCode NYC](https://www.womenwhocode.com) [Write/Speak/Code NYC](https://www.meetup.com/Write-Speak-Code-NYC/) [Women in Machine Learning and Data Science NYC](https://www.meetup.com/NYC-Women-in-Machine-Learning-Data-Science/) [Women in Software Engineering NYC](https://www.meetup.com/Women-in-Software-Engineering-NYC/) |
+| Platform Specific | [NY R Meetup Group](https://www.meetup.com/nyhackr/) [New York Python](https://www.meetup.com/nycpython/) [Looker NYC](https://www.meetup.com/meetup-group-XwKEpidf/) | [NY R Ladies](https://www.meetup.com/rladies-newyork/) [NY PyLadies](https://www.meetup.com/NYC-PyLadies/) | 
 
 ### Industry Focussed:
 NB: These have few links. Please populate! 
