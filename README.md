@@ -43,8 +43,8 @@
 - https://eng.lyft.com/whats-in-a-name-ce42f419d16c
 
 ### Some fun and games about data science titles
-- https://thebolditalic.com/so-what-do-data-scientists-actually-do-33134ba4a31d
-- https://www.forbes.com/sites/brentdykes/2018/04/26/data-samurai-why-your-business-needs-a-new-breed-of-data-analyst/#52e42a4d4612
+- [So What Do Data Scientists Actually Do? Suggestions for a more accurate job title](https://thebolditalic.com/so-what-do-data-scientists-actually-do-33134ba4a31d)
+- [Data Samurai: Why Your Business Needs A New Breed Of Data Analyst](https://www.forbes.com/sites/brentdykes/2018/04/26/data-samurai-why-your-business-needs-a-new-breed-of-data-analyst/#52e42a4d4612)
 
 ## Data-focussed Meetups in New York
 - [NYC Machine Learning](https://www.meetup.com/NYC-Machine-Learning/)
@@ -76,7 +76,7 @@ NB: These have few links. Please populate!
 - Security
 
 ## Even more resources
-- Data Science Recruiting [Emily Robinson](http://hookedondata.org/)
-- Career Development [Lara Hogan](https://larahogan.me/blog/)
+- Data Science Recruiting Series by [Emily Robinson](http://hookedondata.org/)
+- Career Development by [Lara Hogan](https://larahogan.me/blog/)
 - Resume and Career Profile for Data Scientists [Presentation by William Chen](https://www.youtube.com/watch?v=xrhPjE7wHas&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG)
 - Am I a Good Fit? Identifying Your Best Data Science Job Opportunities [Presentation by Jessica Kirkpatrick](https://www.youtube.com/watch?v=0W0Zrc-m5r8&list=PLqFaTIg4myu-dNobDHQZPrD2wH27PthCG&index=2)
